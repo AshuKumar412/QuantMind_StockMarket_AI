@@ -1,0 +1,8 @@
+{
+  "name": "QuantMind AI",
+  "description": "QuantMind AI: Upgraded Institutional-Grade Real-Time Indian Market Intelligence, Live Portfolio Analytics, and AI Research Terminal",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
